@@ -1,0 +1,42 @@
+body{
+    background: #f3f3f3;
+    color: #000000;
+    font-family: "Trebuchet MS", Arial, "Times New Roman";
+    font-size: 12px;
+}
+
+#flex-container {
+background: #aca8d2;
+margin: 30px auto;
+margin-left: 100;
+width: 900px;
+height: 600px;
+display: -webkit-flex;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+#right{
+    background: #929ee5;
+    height: 60%;
+    width: 25%;
+}
+#left{
+    background: #71aeeb;
+    height: 60%;
+    width: 75%;
+}
+
+#ing {
+    background: #3739d7;
+    width: 100%;
+    height: 20%;
+}
+
+#text {
+    background: #c9d87e;
+    width: 100%;
+    height: 20%;
+}
+  
